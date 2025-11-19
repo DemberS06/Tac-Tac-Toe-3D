@@ -1,1 +1,3 @@
-Por mientras todos son flojos
+Neuronal Network: Juan Pablo (Dember) Salinas
+Gamme implementation: Gaddiel MohamedPedroza Martinez, Sofia Isabel Soledad Limon
+ 
