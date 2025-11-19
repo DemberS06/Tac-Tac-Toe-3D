@@ -1,0 +1,12 @@
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\bin\Release\Properties\tryhard.txt
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\bin\Release\tryhard.txt
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\bin\Release\Gato_3D.exe.config
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\bin\Release\Gato_3D.exe
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\bin\Release\Gato_3D.pdb
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\obj\Release\Gato_3D.csproj.AssemblyReference.cache
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\obj\Release\Gato_3D.Form1.resources
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\obj\Release\Gato_3D.Properties.Resources.resources
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\obj\Release\Gato_3D.csproj.GenerateResource.cache
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\obj\Release\Gato_3D.csproj.CoreCompileInputs.cache
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\obj\Release\Gato_3D.exe
+D:\Universidad\2do semestre\lenguaje de programacion 2\A3 tiposDatosSISL\Gatocshark\Gato_3D\Gato_3D\obj\Release\Gato_3D.pdb
